@@ -1,16 +1,17 @@
 # spam-message-classification
 Machine Learning Classification Project using Logistic Regression and Random Forest.
-#Project Overview
+# Project Overview
+
 This project uses Machine Learning to classify SMS messages as Spam or Ham.
 
-#Dataset
+# Dataset
 Spam Message Dataset
 
-#Algorithms Used
+# Algorithms Used
 Logistic Regression
 Random Forest Classifier
 
-#Evaluation Metrics
+# Evaluation Metrics
 Accuracy
 Precision
 Recall
@@ -18,7 +19,7 @@ F1 Score
 ROC-AUC
 
 
-#Technologies Used
+# Technologies Used
 Python
 Pandas
 NumPy
@@ -26,7 +27,7 @@ Scikit-Learn
 Matplotlib
 Google Colab
 
-#Project Workflow
+# Project Workflow
 Data Preprocessing
 Text Vectorization using TF-IDF
 Train-Test Split
@@ -35,5 +36,5 @@ Cross Validation
 Performance Evaluation
 Model Comparison
 
-#Author
+# Author
 P RAM CHARAN
